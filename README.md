@@ -10,7 +10,7 @@ Update the latest text recognition papers from top conferences
 [`code`](https://github.com/simplify23/MRN)
 3. Revisiting Scene Text Recognition: A Data Perspective
 [`paper`](https://arxiv.org/abs/2307.08723)
-[`code`]()
+[`code`](https://github.com/Mountchicken/Union14M)
 
 ## CVPR2023
 1. Self-Supervised Implicit Glyph Attention for Text Recognition
