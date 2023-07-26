@@ -5,6 +5,12 @@ Update the latest text recognition papers from top conferences
 1. Self-supervised Character-to-Character Distillation for Text Recognition
 [`paper`](https://arxiv.org/pdf/2211.00288.pdf)
 [`code`](https://github.com/TongkunGuan/CCD)
+2. MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition
+[`paper`](https://arxiv.org/abs/2305.14758)
+[`code`](https://github.com/simplify23/MRN)
+3. Revisiting Scene Text Recognition: A Data Perspective
+[`paper`](https://arxiv.org/abs/2307.08723)
+[`code`]()
 
 ## CVPR2023
 1. Self-Supervised Implicit Glyph Attention for Text Recognition
@@ -61,6 +67,9 @@ Update the latest text recognition papers from top conferences
 10. SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition
 [`paper`](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_27)
 [`code`]()
+11. Levenshtein OCR
+[`paper`](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_19)
+[`code`](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/OCR/LevOCR)
 
 ## IJCAI2022
 1. SVTR: Scene Text Recognition with a Single Visual Model
