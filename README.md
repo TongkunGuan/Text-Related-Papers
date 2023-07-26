@@ -11,9 +11,24 @@ Update the latest text recognition papers from top conferences
 [`paper`](https://openaccess.thecvf.com/content/CVPR2023/html/Guan_Self-Supervised_Implicit_Glyph_Attention_for_Text_Recognition_CVPR_2023_paper.html)
 [`code`](https://github.com/TongkunGuan/SIGA)
 
-## AAAI2023
+## IJCAI2023
+1. TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition
+[`paper`](https://arxiv.org/abs/2305.05322)
+[`code`](https://github.com/simplify23/TPS_PP)
+2. Linguistic More: Taking a Further Step toward Efficient and Accurate Scene Text Recognition
+[`paper`](https://arxiv.org/pdf/2305.05140.pdf)
+[`code`](https://github.com/CyrilSterling/LPV)
+3. Orientation-Independent Chinese Text Recognition in Scene Images
+[`paper`]()
+[`code`]()
 
 ## ACMMM2022
+1. Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition
+[`paper`](https://dl.acm.org/doi/abs/10.1145/3503161.3547784)
+[`code`](https://github.com/ayumiymk/DiG)
+2. Chinese Character Recognition with Augmented Character Profile Matching
+[`paper`](https://dl.acm.org/doi/abs/10.1145/3503161.3547827)
+[`code`](https://github.com/FudanVI/FudanOCR/tree/main/character-profile-matching)
 
 ## ECCV2022
 1. Scene Text Recognition with Permuted Autoregressive Sequence Models
@@ -46,6 +61,12 @@ Update the latest text recognition papers from top conferences
 10. SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition
 [`paper`](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_27)
 [`code`]()
+
+## IJCAI2022
+1. SVTR: Scene Text Recognition with a Single Visual Model
+[`paper`](https://arxiv.org/abs/2205.00159)
+[`code`](https://github.com/PaddlePaddle/PaddleOCR)
+
 ## CVPR2022
 1. Open-Set Text Recognition via Character-Context Decoupling
 [`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Open-Set_Text_Recognition_via_Character-Context_Decoupling_CVPR_2022_paper.pdf)
@@ -54,6 +75,17 @@ Update the latest text recognition papers from top conferences
 2. Knowledge Mining with Scene Text for Fine-Grained Recognition
 [`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Knowledge_Mining_With_Scene_Text_for_Fine-Grained_Recognition_CVPR_2022_paper.pdf)
 [`code`](https://github.com/MCLAB-OCR/KnowledgeMiningWithSceneText)
+
+## AAAI2022
+1. Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition
+[`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/19971)
+[`code`](https://github.com/adeline-cs/GTR)
+2. Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition
+[`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/20062)
+[`code`]()
+3. Context-Based Contrastive Learning for Scene Text Recognition
+[`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/20245)
+[`code`]()
 
 ## CVPR2021
 1. Sequence-to-Sequence Contrastive Learning for Text Recognition
