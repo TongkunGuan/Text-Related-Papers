@@ -18,7 +18,7 @@ Update the latest text recognition papers from top conferences
 [`code`](https://github.com/TongkunGuan/SIGA)
 
 ## ACMMM2023
-1.Relational Contrastive Learning for Scene Text Recognition
+1. Relational Contrastive Learning for Scene Text Recognition
 [`paper`](https://arxiv.org/pdf/2308.00508.pdf)
 [`code`](https://github.com/ThunderVVV/RCLSTR)
 
