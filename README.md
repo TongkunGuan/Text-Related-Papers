@@ -17,6 +17,11 @@ Update the latest text recognition papers from top conferences
 [`paper`](https://openaccess.thecvf.com/content/CVPR2023/html/Guan_Self-Supervised_Implicit_Glyph_Attention_for_Text_Recognition_CVPR_2023_paper.html)
 [`code`](https://github.com/TongkunGuan/SIGA)
 
+## ACMMM2023
+1.Relational Contrastive Learning for Scene Text Recognition
+[`paper`](https://arxiv.org/pdf/2308.00508.pdf)
+[`code`](https://github.com/ThunderVVV/RCLSTR)
+
 ## IJCAI2023
 1. TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition
 [`paper`](https://arxiv.org/abs/2305.05322)
