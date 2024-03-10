@@ -13,6 +13,9 @@ ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal wi
 [`paper`](https://arxiv.org/pdf/2306.12106.pdf)
 [`code`](https://github.com/shannanyinxiang/ViTEraser)
 
+CPN: Complementary Proposal Network for Unconstrained Text Detection
+[`paper`](https://arxiv.org/pdf/2402.11540.pdf)
+
 ## ICCV2023
 1. Self-supervised Character-to-Character Distillation for Text Recognition
 [`paper`](https://arxiv.org/pdf/2211.00288.pdf)
