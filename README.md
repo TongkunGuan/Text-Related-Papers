@@ -9,6 +9,10 @@ LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approx
 [`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Eigencontours_Novel_Contour_Descriptors_Based_on_Low-Rank_Approximation_CVPR_2022_paper.pdf)
 [`code`](https://github.com/ychensu/LRANet)
 
+ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining
+[`paper`](https://arxiv.org/pdf/2306.12106.pdf)
+[`code`](https://github.com/shannanyinxiang/ViTEraser)
+
 ## ICCV2023
 1. Self-supervised Character-to-Character Distillation for Text Recognition
 [`paper`](https://arxiv.org/pdf/2211.00288.pdf)
