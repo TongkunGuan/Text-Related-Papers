@@ -1,6 +1,9 @@
-# Text-Recognition-Papers
+# Text-Related-Papers
 Update the latest text recognition papers from top conferences
-
+## AAAI2024
+LORE: Logical Location Regression Network for Table Structure Recognition
+[`paper`](https://arxiv.org/pdf/2303.03730.pdf)
+[`code`](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
 ## ICCV2023
 1. Self-supervised Character-to-Character Distillation for Text Recognition
 [`paper`](https://arxiv.org/pdf/2211.00288.pdf)
