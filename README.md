@@ -4,6 +4,11 @@ Update the latest text recognition papers from top conferences
 LORE: Logical Location Regression Network for Table Structure Recognition
 [`paper`](https://arxiv.org/pdf/2303.03730.pdf)
 [`code`](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
+
+LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network
+[`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Eigencontours_Novel_Contour_Descriptors_Based_on_Low-Rank_Approximation_CVPR_2022_paper.pdf)
+[`code`](https://github.com/ychensu/LRANet)
+
 ## ICCV2023
 1. Self-supervised Character-to-Character Distillation for Text Recognition
 [`paper`](https://arxiv.org/pdf/2211.00288.pdf)
