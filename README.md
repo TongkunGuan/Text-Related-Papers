@@ -10,7 +10,7 @@ LORE: Logical Location Regression Network for Table Structure Recognition
 [`code`](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
 
 LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network
-[`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Eigencontours_Novel_Contour_Descriptors_Based_on_Low-Rank_Approximation_CVPR_2022_paper.pdf)
+[`paper`](https://arxiv.org/abs/2306.15142)
 [`code`](https://github.com/ychensu/LRANet)
 
 ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining
