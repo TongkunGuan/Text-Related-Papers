@@ -1,8 +1,5 @@
 # Text-Related-Papers
 Update the latest text recognition papers from top conferences
-## CVPR2024
-Multi-modal In-Context Learning Makes an Ego-evolving Scene Text Recognizer
-[`paper`](https://arxiv.org/pdf/2311.13120.pdf)
 
 ## AAAI2024
 LORE: Logical Location Regression Network for Table Structure Recognition
