@@ -2,13 +2,16 @@
 Update the latest text-related papers from top conferences
 
 # Text to Image (Diffusion Models)
-TextDiffuser: Diffusion Models as Text Painters (NeurIPS23)
+## NeurIPS23
+TextDiffuser: Diffusion Models as Text Painters
 [`paper`](https://arxiv.org/pdf/2305.10855)
 [`code`](https://aka.ms/textdiffuser)
 
+## CVPR24
 Layout-Agnostic Scene Text Image Synthesis with Diffusion Models (CVPR24)
 [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)
 
+## Arxiv
 TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering
 [`paper`](https://arxiv.org/pdf/2311.16465)
 [`code`](https://aka.ms/textdiffuser-2)
