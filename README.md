@@ -2,77 +2,6 @@
 Update the latest text-related papers from top conferences
 
 <details>
-<summary><strong>Multi-modal Large Language Model (MLLM)</strong></summary>
-
-- **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model**
-  [`paper`](https://arxiv.org/pdf/2310.05126)
-  [code](https://github.com/LukeForeverYoung/UReader)
-
-TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document
-[`paper`](https://arxiv.org/abs/2403.04473)
-[`code`](https://github.com/Yuliang-Liu/Monkey)
-
-DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding
-[`paper`](https://arxiv.org/pdf/2311.11810)
-[`code`]
-
-InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
-[`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf)
-[`code`](https://github.com/OpenGVLab/InternVL)
-
-Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models
-[`paper`](https://arxiv.org/pdf/2312.06109)
-[`code`](https://varybase.github.io/)
-
-Fox: Focus Anywhere for Fine-grained Multi-page Document Understanding
-[`paper`](https://arxiv.org/abs/2405.14295)
-[`code`](https://github.com/Ucas-HaoranWei/Fox)
-
-TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models
-[`paper`](https://arxiv.org/abs/2404.09204)
-[`code`](https://github.com/yuyq96/TextHawk)
-
-</details>
-
-<details>
-<summary><strong>Text to Image (Diffusion Models)</strong></summary>
-
-### NeurIPS 2023
-- **TextDiffuser: Diffusion Models as Text Painters**
-  [paper](https://arxiv.org/pdf/2305.10855)
-  [code](https://aka.ms/textdiffuser)
-
-### CVPR 2024
-- **Layout-Agnostic Scene Text Image Synthesis with Diffusion Models**
-  [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)
-
-### Arxiv
-- **TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**
-  [paper](https://arxiv.org/pdf/2311.16465)
-  [code](https://aka.ms/textdiffuser-2)
-- **Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**
-  [paper](https://arxiv.org/pdf/2403.16422)
-- **Typographic Text Generation with Off-the-Shelf Diffusion Model**
-  [paper](https://arxiv.org/pdf/2402.14314)
-
-</details>
-
-<details>
-<summary><strong>Text Detection</strong></summary>
-
-### AAAI 2024
-- **LORE: Logical Location Regression Network for Table Structure Recognition**
-  [paper](https://arxiv.org/pdf/2303.03730.pdf)
-  [code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
-- **LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network**
-[paper](https://arxiv.org/abs/2306.15142)
-[code](https://github.com/ychensu/LRANet)
-- **CPN: Complementary Proposal Network for Unconstrained Text Detection**
-[paper](https://arxiv.org/pdf/2402.11540.pdf)
-
-</details>
-
-<details>
 <summary><strong>Text Recognition</strong></summary>
 
 ### ICCV 2023
@@ -194,3 +123,81 @@ TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Langua
 - **Primitive Representation Learning for Scene Text Recognition**
 [`paper`](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Primitive_Representation_Learning_for_Scene_Text_Recognition_CVPR_2021_paper.pdf)
 [`code`](https://github.com/RuijieJ/pren)
+</details>
+
+<details>
+<summary><strong>Text to Image (Diffusion Models)</strong></summary>
+
+### NeurIPS 2023
+- **TextDiffuser: Diffusion Models as Text Painters**
+  [paper](https://arxiv.org/pdf/2305.10855)
+  [code](https://aka.ms/textdiffuser)
+
+### CVPR 2024
+- **Layout-Agnostic Scene Text Image Synthesis with Diffusion Models**
+  [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)
+
+### Arxiv
+- **TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**
+  [paper](https://arxiv.org/pdf/2311.16465)
+  [code](https://aka.ms/textdiffuser-2)
+- **Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**
+  [paper](https://arxiv.org/pdf/2403.16422)
+- **Typographic Text Generation with Off-the-Shelf Diffusion Model**
+  [paper](https://arxiv.org/pdf/2402.14314)
+
+</details>
+
+<details>
+<summary><strong>Multi-modal Large Language Model (MLLM)</strong></summary>
+
+### CVPR24
+- **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**
+[`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf)
+[`code`](https://github.com/OpenGVLab/InternVL)
+
+### EMNLP23
+- **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model**
+  [`paper`](https://arxiv.org/pdf/2310.05126)
+  [code](https://github.com/LukeForeverYoung/UReader)
+
+### Arxiv
+- **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**
+[`paper`](https://arxiv.org/abs/2403.04473)
+[`code`](https://github.com/Yuliang-Liu/Monkey)
+
+- **DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**
+[`paper`](https://arxiv.org/pdf/2311.11810)
+
+- **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**
+[`paper`](https://arxiv.org/pdf/2312.06109)
+[`code`](https://varybase.github.io/)
+
+- **Fox: Focus Anywhere for Fine-grained Multi-page Document Understanding**
+[`paper`](https://arxiv.org/abs/2405.14295)
+[`code`](https://github.com/Ucas-HaoranWei/Fox)
+
+- **TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models**
+[`paper`](https://arxiv.org/abs/2404.09204)
+[`code`](https://github.com/yuyq96/TextHawk)
+
+- **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**
+[`paper`](https://arxiv.org/abs/2403.12895)
+[`code`](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
+</details>
+
+<details>
+<summary><strong>Text Detection</strong></summary>
+
+### AAAI 2024
+- **LORE: Logical Location Regression Network for Table Structure Recognition**
+  [paper](https://arxiv.org/pdf/2303.03730.pdf)
+  [code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
+- **LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network**
+[paper](https://arxiv.org/abs/2306.15142)
+[code](https://github.com/ychensu/LRANet)
+- **CPN: Complementary Proposal Network for Unconstrained Text Detection**
+[paper](https://arxiv.org/pdf/2402.11540.pdf)
+
+</details>
+
