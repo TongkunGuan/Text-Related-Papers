@@ -20,7 +20,6 @@ Typographic Text Generation with Off-the-Shelf Diffusion Model
 [`paper`](https://arxiv.org/pdf/2402.14314)
 
 
-# Text Recognition
 ## AAAI2024
 LORE: Logical Location Regression Network for Table Structure Recognition
 [`paper`](https://arxiv.org/pdf/2303.03730.pdf)
@@ -37,6 +36,7 @@ ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal wi
 CPN: Complementary Proposal Network for Unconstrained Text Detection
 [`paper`](https://arxiv.org/pdf/2402.11540.pdf)
 
+# Text Recognition
 ## ICCV2023
 1. Self-supervised Character-to-Character Distillation for Text Recognition
 [`paper`](https://arxiv.org/pdf/2211.00288.pdf)
