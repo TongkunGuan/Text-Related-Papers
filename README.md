@@ -11,7 +11,7 @@ Layout-Agnostic Scene Text Image Synthesis with Diffusion Models (CVPR24)
 
 TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering
 [`paper`](https://arxiv.org/pdf/2311.16465)
-[`paper`](https://aka.ms/textdiffuser-2)
+[`code`](https://aka.ms/textdiffuser-2)
 
 Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation
 [`paper`](https://arxiv.org/pdf/2403.16422)
