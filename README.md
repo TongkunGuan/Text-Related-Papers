@@ -1,6 +1,38 @@
 # Text-Related-Papers
 Update the latest text-related papers from top conferences
-  
+
+<details>
+<summary><strong>Multi-modal Large Language Model (MLLM)</strong></summary>
+
+- **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model**
+  [`paper`](https://arxiv.org/pdf/2310.05126)
+  [code](https://github.com/LukeForeverYoung/UReader)
+
+TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document
+[`paper`](https://arxiv.org/abs/2403.04473)
+[`code`](https://github.com/Yuliang-Liu/Monkey)
+
+DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding
+[`paper`](https://arxiv.org/pdf/2311.11810)
+[`code`]
+
+InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks
+[`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf)
+[`code`](https://github.com/OpenGVLab/InternVL)
+
+Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models
+[`paper`](https://arxiv.org/pdf/2312.06109)
+[`code`](https://varybase.github.io/)
+
+Fox: Focus Anywhere for Fine-grained Multi-page Document Understanding
+[`paper`](https://arxiv.org/abs/2405.14295)
+[`code`](https://github.com/Ucas-HaoranWei/Fox)
+
+TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models
+[`paper`](https://arxiv.org/abs/2404.09204)
+[`code`](https://github.com/yuyq96/TextHawk)
+
+</details>
 
 <details>
 <summary><strong>Text to Image (Diffusion Models)</strong></summary>
