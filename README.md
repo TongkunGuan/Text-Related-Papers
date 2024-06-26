@@ -20,7 +20,7 @@ Typographic Text Generation with Off-the-Shelf Diffusion Model
 [`paper`](https://arxiv.org/pdf/2402.14314)
 
 
-
+# Text Recognition
 ## AAAI2024
 LORE: Logical Location Regression Network for Table Structure Recognition
 [`paper`](https://arxiv.org/pdf/2303.03730.pdf)
