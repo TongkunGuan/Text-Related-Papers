@@ -162,6 +162,14 @@ Update the latest text-related papers from top conferences
   [code](https://github.com/LukeForeverYoung/UReader)
 
 ### Arxiv
+- **MoAI: Mixture of All Intelligence for Large Language and Vision Models**
+[`paper`](https://arxiv.org/abs/2403.07508)
+[`code`](https://github.com/ByungKwanLee/MoAI)
+
+- **Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**
+[`paper`](https://arxiv.org/abs/2406.02547)
+[`code`](https://fingerrec.github.io/visincontext/)
+
 - **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**
 [`paper`](https://arxiv.org/abs/2403.04473)
 [`code`](https://github.com/Yuliang-Liu/Monkey)
