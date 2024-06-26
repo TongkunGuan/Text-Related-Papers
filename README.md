@@ -9,6 +9,10 @@ TextDiffuser: Diffusion Models as Text Painters (NeurIPS23)
 Layout-Agnostic Scene Text Image Synthesis with Diffusion Models (CVPR24)
 [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)
 
+TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering
+[`paper`](https://arxiv.org/pdf/2311.16465)
+[`paper`](https://aka.ms/textdiffuser-2)
+
 Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation
 [`paper`](https://arxiv.org/pdf/2403.16422)
 
