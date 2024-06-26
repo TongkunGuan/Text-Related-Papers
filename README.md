@@ -1,7 +1,7 @@
 # Text-Related-Papers
 Update the latest text-related papers from top conferences
 
-##Text to Image (Diffusion Models)
+## Text to Image (Diffusion Models)
 TextDiffuser: Diffusion Models as Text Painters (NeurIPS23)
 [`paper`](https://arxiv.org/pdf/2305.10855)
 [`code`](https://aka.ms/textdiffuser)
