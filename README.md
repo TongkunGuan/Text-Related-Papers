@@ -1,5 +1,21 @@
 # Text-Related-Papers
-Update the latest text recognition papers from top conferences
+Update the latest text-related papers from top conferences
+
+##Text to Image (Diffusion Models)
+TextDiffuser: Diffusion Models as Text Painters (NeurIPS23)
+[`paper`](https://arxiv.org/pdf/2305.10855)
+[`code`](https://aka.ms/textdiffuser)
+
+Layout-Agnostic Scene Text Image Synthesis with Diffusion Models (CVPR24)
+[`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)
+
+Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation
+[`paper`](https://arxiv.org/pdf/2403.16422)
+
+Typographic Text Generation with Off-the-Shelf Diffusion Model
+[`paper`](https://arxiv.org/pdf/2402.14314)
+
+
 
 ## AAAI2024
 LORE: Logical Location Regression Network for Table Structure Recognition
