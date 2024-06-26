@@ -19,7 +19,7 @@ Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced
 Typographic Text Generation with Off-the-Shelf Diffusion Model
 [`paper`](https://arxiv.org/pdf/2402.14314)
 
-
+# Text Detection
 ## AAAI2024
 LORE: Logical Location Regression Network for Table Structure Recognition
 [`paper`](https://arxiv.org/pdf/2303.03730.pdf)
@@ -28,10 +28,6 @@ LORE: Logical Location Regression Network for Table Structure Recognition
 LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network
 [`paper`](https://arxiv.org/abs/2306.15142)
 [`code`](https://github.com/ychensu/LRANet)
-
-ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining
-[`paper`](https://arxiv.org/pdf/2306.12106.pdf)
-[`code`](https://github.com/shannanyinxiang/ViTEraser)
 
 CPN: Complementary Proposal Network for Unconstrained Text Detection
 [`paper`](https://arxiv.org/pdf/2402.11540.pdf)
