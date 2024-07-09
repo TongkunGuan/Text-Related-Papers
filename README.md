@@ -177,7 +177,7 @@ Update the latest text-related papers from top conferences, including:
 [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf)
 [`code`](https://github.com/OpenGVLab/InternVL)
 - **TRINS: Towards Multimodal Language Models that Can Read**
-- [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_TRINS_Towards_Multimodal_Language_Models_that_Can_Read_CVPR_2024_paper.pdf)
+  [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_TRINS_Towards_Multimodal_Language_Models_that_Can_Read_CVPR_2024_paper.pdf)
 
 ### EMNLP23
 - **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model**
