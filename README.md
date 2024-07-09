@@ -165,6 +165,8 @@ Update the latest text-related papers from top conferences, including:
 - **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**
   [`paper`](https://arxiv.org/pdf/2407.02252)
   [`code`](https://github.com/OPPO-Mente-Lab/GlyphDraw2)
+- **ARTIST: Improving the Generation of Text-rich Images by Disentanglement**
+  [`paper`](https://arxiv.org/pdf/2406.12044)
 
 
 </details>
