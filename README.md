@@ -196,7 +196,11 @@ Update the latest text-related papers from top conferences
 
 <details>
 <summary><strong>Text Detection</strong></summary>
-
+### ECCV 2024
+  - **Bridging Synthetic and Real Worlds for Pre-training Scene Text Detector**
+  [paper](https://arxiv.org/pdf/2312.05286)
+  [code](https://github.com/SJTU-DeepVisionLab/FreeReal)
+  
 ### AAAI 2024
 - **LORE: Logical Location Regression Network for Table Structure Recognition**
   [paper](https://arxiv.org/pdf/2303.03730.pdf)
