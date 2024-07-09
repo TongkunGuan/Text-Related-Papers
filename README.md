@@ -1,5 +1,9 @@
 # Text-Related-Papers
-Update the latest text-related papers from top conferences
+Update the latest text-related papers from top conferences, including:
+1) Text Recognition
+2) Text to Image (Diffusion Models)
+3) Multi-modal Large Language Model (MLLM)
+4) Text Detection
 
 <details open>
 <summary><strong>Text Recognition</strong></summary>
