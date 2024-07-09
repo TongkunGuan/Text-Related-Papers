@@ -5,7 +5,7 @@ Update the latest text-related papers from top conferences, including:
 3) Multi-modal Large Language Model (MLLM)
 4) Text Detection
 
-<details open>
+<details>
 <summary><strong>Text Recognition</strong></summary>
 
 ### ECCV 2024
