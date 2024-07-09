@@ -1,7 +1,7 @@
 # Text-Related-Papers
 Update the latest text-related papers from top conferences
 
-<details>
+<details open>
 <summary><strong>Text Recognition</strong></summary>
 
 ## ECCV 2024
@@ -130,7 +130,7 @@ Update the latest text-related papers from top conferences
 [`code`](https://github.com/RuijieJ/pren)
 </details>
 
-<details>
+<details open>
 <summary><strong>Text to Image (Diffusion Models)</strong></summary>
 
 ### NeurIPS 2023
@@ -153,7 +153,7 @@ Update the latest text-related papers from top conferences
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Multi-modal Large Language Model (MLLM)</strong></summary>
 
 ### CVPR24
@@ -199,7 +199,7 @@ Update the latest text-related papers from top conferences
 [`code`](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
 </details>
 
-<details>
+<details open>
 <summary><strong>Text Detection</strong></summary>
   
 ### ECCV 2024
