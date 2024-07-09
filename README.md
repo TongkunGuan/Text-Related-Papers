@@ -139,21 +139,33 @@ Update the latest text-related papers from top conferences, including:
 
 ### NeurIPS 2023
 - **TextDiffuser: Diffusion Models as Text Painters**
-  [paper](https://arxiv.org/pdf/2305.10855)
-  [code](https://aka.ms/textdiffuser)
+  [`paper`](https://arxiv.org/pdf/2305.10855)
+  [`code`](https://aka.ms/textdiffuser)
 
 ### CVPR 2024
 - **Layout-Agnostic Scene Text Image Synthesis with Diffusion Models**
-  [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)
+  [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)
+- **CustomText: Customized Textual Image Generation using Diffusion Models**
+  [`paper`](https://arxiv.org/pdf/2405.12531)
 
 ### Arxiv
 - **TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**
-  [paper](https://arxiv.org/pdf/2311.16465)
-  [code](https://aka.ms/textdiffuser-2)
+  [`paper`](https://arxiv.org/pdf/2311.16465)
+  [`code`](https://aka.ms/textdiffuser-2)
 - **Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**
-  [paper](https://arxiv.org/pdf/2403.16422)
+  [`paper`](https://arxiv.org/pdf/2403.16422)
 - **Typographic Text Generation with Off-the-Shelf Diffusion Model**
-  [paper](https://arxiv.org/pdf/2402.14314)
+  [`paper`](https://arxiv.org/pdf/2402.14314)
+- **High Fidelity Scene Text Synthesis**
+  [`paper`](https://arxiv.org/pdf/2405.14701)
+  [`code`](https://github.com/CodeGoat24/DreamText)
+- **UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models**
+  [`paper`](https://arxiv.org/abs/2312.04884)
+  [`code`](https://github.com/ZYM-PKU/UDiffText)
+- **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**
+  [`paper`](https://arxiv.org/pdf/2407.02252)
+  [`code`](https://github.com/OPPO-Mente-Lab/GlyphDraw2)
+
 
 </details>
 
@@ -164,11 +176,13 @@ Update the latest text-related papers from top conferences, including:
 - **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**
 [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf)
 [`code`](https://github.com/OpenGVLab/InternVL)
+- **TRINS: Towards Multimodal Language Models that Can Read**
+- [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_TRINS_Towards_Multimodal_Language_Models_that_Can_Read_CVPR_2024_paper.pdf)
 
 ### EMNLP23
 - **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model**
   [`paper`](https://arxiv.org/pdf/2310.05126)
-  [code](https://github.com/LukeForeverYoung/UReader)
+  [`code`](https://github.com/LukeForeverYoung/UReader)
 
 ### Arxiv
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**
