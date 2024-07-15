@@ -146,6 +146,12 @@ Update the latest text-related papers from top conferences, including:
   [`paper`](https://arxiv.org/pdf/2406.10208)
   [`code`](https://glyph-byt5-v2.github.io/)
 
+### ACL 2023
+- **Character-Aware Models Improve Visual Text Rendering**
+  [`paper`](https://arxiv.org/pdf/2212.10562)
+  [`code`]()
+
+
 ### NeurIPS 2023
 - **TextDiffuser: Diffusion Models as Text Painters**
   [`paper`](https://arxiv.org/pdf/2305.10855)
