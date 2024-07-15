@@ -136,11 +136,23 @@ Update the latest text-related papers from top conferences, including:
 
 <details open>
 <summary><strong>Text to Image (Diffusion Models)</strong></summary>
+  
+### ECCV2024
+- **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering**
+  [`paper`](https://arxiv.org/pdf/2403.09622)
+  [`code`](https://glyph-byt5.github.io/)
+  **Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering**
+  [`paper`](https://arxiv.org/pdf/2406.10208)
+  [`code`](https://glyph-byt5-v2.github.io/)
 
 ### NeurIPS 2023
 - **TextDiffuser: Diffusion Models as Text Painters**
   [`paper`](https://arxiv.org/pdf/2305.10855)
   [`code`](https://aka.ms/textdiffuser)
+- **GlyphControl: Glyph Conditional Control for Visual Text Generation**
+  [`paper`](https://arxiv.org/pdf/2305.18259)
+  [`code`](https://github.com/AIGText/GlyphControl-release)
+
 
 ### CVPR 2024
 - **Layout-Agnostic Scene Text Image Synthesis with Diffusion Models**
@@ -167,6 +179,7 @@ Update the latest text-related papers from top conferences, including:
   [`code`](https://github.com/OPPO-Mente-Lab/GlyphDraw2)
 - **ARTIST: Improving the Generation of Text-rich Images by Disentanglement**
   [`paper`](https://arxiv.org/pdf/2406.12044)
+
 
 
 </details>
