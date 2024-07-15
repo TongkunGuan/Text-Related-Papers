@@ -141,6 +141,7 @@ Update the latest text-related papers from top conferences, including:
 - **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering**
   [`paper`](https://arxiv.org/pdf/2403.09622)
   [`code`](https://glyph-byt5.github.io/)
+  
   **Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering**
   [`paper`](https://arxiv.org/pdf/2406.10208)
   [`code`](https://glyph-byt5-v2.github.io/)
