@@ -8,7 +8,6 @@ This repository contains a paper collection of the latest text-related papers fr
 - [Text Detection](#text-detection)
 ##
 
-👀 
 ### Text Recognition
 + [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](https://arxiv.org/pdf/2407.07764) (ECCV2024)
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/SJTU-DeepVisionLab/PosFormer)
