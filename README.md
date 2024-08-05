@@ -38,7 +38,7 @@ This repository contains a paper collection of the latest text-related papers fr
 + [Scene Text Recognition with Permuted Autoregressive Sequence Models](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_11) (ECCV 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/baudm/parseq)
   
 + [Task Grouping for Multilingual Text Recognition (Workshops)](https://link.springer.com/chapter/10.1007/978-3-031-25069-9_20) (ECCV 2022 Workshops)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
-+ 
+  
 + [Multi-modal Text Recognition Networks: Interactive Enhancements Between Visual and Semantic Features](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_26) (ECCV 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/wp03052/MATRN)
   
 + [On Calibration of Scene-Text Recognition Models (Workshops)](https://link.springer.com/chapter/10.1007/978-3-031-25069-9_18) (ECCV 2022 Workshops)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
@@ -52,7 +52,7 @@ This repository contains a paper collection of the latest text-related papers fr
 + [Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_18) (ECCV 2022) [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/xdxie/WordArt)
   
 + [Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_10) (ECCV 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
-+ 
+  
 + [SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_27) (ECCV 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
   
 + [Levenshtein OCR](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_19) (ECCV 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/OCR/LevOCR)
@@ -66,9 +66,9 @@ This repository contains a paper collection of the latest text-related papers fr
 + [Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19971) (AAAI 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/adeline-cs/GTR)
   
 + [Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/20062) (AAAI 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
-+ 
+  
 + [Context-Based Contrastive Learning for Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/20245) (AAAI 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
-+ 
+  
 + [Sequence-to-Sequence Contrastive Learning for Text Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Aberdam_Sequence-to-Sequence_Contrastive_Learning_for_Text_Recognition_CVPR_2021_paper.pdf) (CVPR 2021)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
   
 + [What if We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.pdf) (CVPR 2021)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/ku21fan/STR-Fewer-Labels)
