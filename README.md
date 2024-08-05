@@ -212,6 +212,10 @@ Update the latest text-related papers from top conferences, including:
   [`code`](https://github.com/LukeForeverYoung/UReader)
 
 ### Arxiv
+- **LayTextLLM: A Bounding Box is Worth One Token - Interleaving Layout and Text in a Large Language Model for Document Understanding**
+  [`paper`](https://arxiv.org/pdf/2407.01976) 8gpu
+  [`code`](https://github.com/LayTextLLM/LayTextLLM)
+
 - **MoAI: Mixture of All Intelligence for Large Language and Vision Models**
 [`paper`](https://arxiv.org/abs/2403.07508)
 [`code`](https://github.com/ByungKwanLee/MoAI)
