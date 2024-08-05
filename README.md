@@ -9,7 +9,7 @@ This repository contains a paper collection of the latest text-related papers fr
 ##
 
 ### Text Recognition
-+ [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer]
++ [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](ECCV2024)
 [`paper`]()
 [`code`](https://github.com/SJTU-DeepVisionLab/PosFormer)
 
