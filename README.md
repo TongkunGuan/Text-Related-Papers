@@ -126,148 +126,63 @@ This repository contains a paper collection of the latest text-related papers fr
 
 
   
-### ECCV2024
-- **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering**
-  [`paper`](https://arxiv.org/pdf/2403.09622)
-  [`code`](https://glyph-byt5.github.io/)
-  
-  **Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering**
-  [`paper`](https://arxiv.org/pdf/2406.10208)
-  [`code`](https://glyph-byt5-v2.github.io/)
+### Multi-modal Large Language Model (MLLM)
++ [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf) (CVPR2024)
+  [code](https://github.com/OpenGVLab/InternVL)
 
-### ICLR2024
-- **ANYTEXT: MULTILINGUAL VISUAL TEXT GENERATION AND EDITING**
-  [`paper`](https://arxiv.org/pdf/2311.03054)
-  [`code`](https://github.com/tyxsspa/AnyText)
++ [TRINS: Towards Multimodal Language Models that Can Read](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_TRINS_Towards_Multimodal_Language_Models_that_Can_Read_CVPR_2024_paper.pdf) (CVPR2024)
 
-### ACL 2023
-- **Character-Aware Models Improve Visual Text Rendering**
-  [`paper`](https://arxiv.org/pdf/2212.10562)
-  [`code`]()
++ [UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model](https://arxiv.org/pdf/2310.05126) (EMNLP2023)
+  [code](https://github.com/LukeForeverYoung/UReader)
 
++ [On Pre-training of Multimodal Language Models Customized for Chart Understanding](https://arxiv.org/pdf/2407.14506) (Arxiv)
 
-### NeurIPS 2023
-- **TextDiffuser: Diffusion Models as Text Painters**
-  [`paper`](https://arxiv.org/pdf/2305.10855)
-  [`code`](https://aka.ms/textdiffuser)
-- **GlyphControl: Glyph Conditional Control for Visual Text Generation**
-  [`paper`](https://arxiv.org/pdf/2305.18259)
-  [`code`](https://github.com/AIGText/GlyphControl-release)
++ [LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models](https://arxiv.org/pdf/2407.19185) (Arxiv)
 
++ [Multimodal Table Understanding](https://arxiv.org/pdf/2406.08100) (Arxiv)
+  [code](https://github.com/SpursGoZmy/Table-LLaVA)
 
-### CVPR 2024
-- **Layout-Agnostic Scene Text Image Synthesis with Diffusion Models**
-  [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhangli_Layout-Agnostic_Scene_Text_Image_Synthesis_with_Diffusion_Models_CVPR_2024_paper.pdf)
-- **CustomText: Customized Textual Image Generation using Diffusion Models**
-  [`paper`](https://arxiv.org/pdf/2405.12531)
++ [Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding](https://arxiv.org/pdf/2407.14439) (Arxiv)
+  [code](https://github.com/JiuTian-VL/TokenCorrCompressor)
 
-### Arxiv
-- **TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering**
-  [`paper`](https://arxiv.org/pdf/2311.16465)
-  [`code`](https://aka.ms/textdiffuser-2)
-- **Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**
-  [`paper`](https://arxiv.org/pdf/2403.16422)
-- **Typographic Text Generation with Off-the-Shelf Diffusion Model**
-  [`paper`](https://arxiv.org/pdf/2402.14314)
-- **High Fidelity Scene Text Synthesis**
-  [`paper`](https://arxiv.org/pdf/2405.14701)
-  [`code`](https://github.com/CodeGoat24/DreamText)
-- **UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models**
-  [`paper`](https://arxiv.org/abs/2312.04884)
-  [`code`](https://github.com/ZYM-PKU/UDiffText)
-- **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**
-  [`paper`](https://arxiv.org/pdf/2407.02252)
-  [`code`](https://github.com/OPPO-Mente-Lab/GlyphDraw2)
-- **ARTIST: Improving the Generation of Text-rich Images by Disentanglement**
-  [`paper`](https://arxiv.org/pdf/2406.12044)
++ [LayTextLLM: A Bounding Box is Worth One Token - Interleaving Layout and Text in a Large Language Model for Document Understanding](https://arxiv.org/pdf/2407.01976) (Arxiv)
+  [code](https://github.com/LayTextLLM/LayTextLLM)
+
++ [MoAI: Mixture of All Intelligence for Large Language and Vision Models](https://arxiv.org/abs/2403.07508) (Arxiv)
+  [code](https://github.com/ByungKwanLee/MoAI)
+
++ [Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning](https://arxiv.org/abs/2406.02547) (Arxiv)
+  [code](https://fingerrec.github.io/visincontext/)
+
++ [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473) (Arxiv)
+  [code](https://github.com/Yuliang-Liu/Monkey)
+
++ [DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding](https://arxiv.org/pdf/2311.11810) (Arxiv)
+
++ [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/pdf/2312.06109) (Arxiv)
+  [code](https://varybase.github.io/)
+
++ [Fox: Focus Anywhere for Fine-grained Multi-page Document Understanding](https://arxiv.org/abs/2405.14295) (Arxiv)
+  [code](https://github.com/Ucas-HaoranWei/Fox)
+
++ [TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models](https://arxiv.org/abs/2404.09204) (Arxiv)
+  [code](https://github.com/yuyq96/TextHawk)
+
++ [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895) (Arxiv)
+  [code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
 
 
 
-</details>
+### Text Detection
++ [Bridging Synthetic and Real Worlds for Pre-training Scene Text Detector](https://arxiv.org/pdf/2312.05286) (ECCV2024)
+  [code](https://github.com/SJTU-DeepVisionLab/FreeReal)
 
-<details>
-<summary><strong>Multi-modal Large Language Model (MLLM)</strong></summary>
++ [LORE: Logical Location Regression Network for Table Structure Recognition](https://arxiv.org/pdf/2303.03730.pdf) (AAAI2024)
+  [code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
 
-### CVPR24
-- **InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks**
-[`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf)
-[`code`](https://github.com/OpenGVLab/InternVL)
-- **TRINS: Towards Multimodal Language Models that Can Read**
-  [`paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_TRINS_Towards_Multimodal_Language_Models_that_Can_Read_CVPR_2024_paper.pdf)
++ [LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network](https://arxiv.org/abs/2306.15142) (AAAI2024)
+  [code](https://github.com/ychensu/LRANet)
 
-### EMNLP23
-- **UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model**
-  [`paper`](https://arxiv.org/pdf/2310.05126)
-  [`code`](https://github.com/LukeForeverYoung/UReader)
++ [CPN: Complementary Proposal Network for Unconstrained Text Detection](https://arxiv.org/pdf/2402.11540.pdf) (AAAI2024)
 
-### Arxiv
-- **On Pre-training of Multimodal Language Models Customized for Chart Understanding**
-  [`paper`](https://arxiv.org/pdf/2407.14506)
-  
-- **LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models**
-  [`paper`](https://arxiv.org/pdf/2407.19185)
-  
-- **Multimodal Table Understanding**
-  [`paper`](https://arxiv.org/pdf/2406.08100)
-  [`code`](https://github.com/SpursGoZmy/Table-LLaVA)
-
-- **Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding**
-  [`paper`](https://arxiv.org/pdf/2407.14439) 4gpu
-  [`code`](https://github.com/JiuTian-VL/TokenCorrCompressor)
-   
-- **LayTextLLM: A Bounding Box is Worth One Token - Interleaving Layout and Text in a Large Language Model for Document Understanding**
-  [`paper`](https://arxiv.org/pdf/2407.01976) 8gpu
-  [`code`](https://github.com/LayTextLLM/LayTextLLM)
-
-- **MoAI: Mixture of All Intelligence for Large Language and Vision Models**
-[`paper`](https://arxiv.org/abs/2403.07508)
-[`code`](https://github.com/ByungKwanLee/MoAI)
-
-- **Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**
-[`paper`](https://arxiv.org/abs/2406.02547)
-[`code`](https://fingerrec.github.io/visincontext/)
-
-- **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**
-[`paper`](https://arxiv.org/abs/2403.04473)
-[`code`](https://github.com/Yuliang-Liu/Monkey)
-
-- **DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**
-[`paper`](https://arxiv.org/pdf/2311.11810)
-
-- **Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models**
-[`paper`](https://arxiv.org/pdf/2312.06109)
-[`code`](https://varybase.github.io/)
-
-- **Fox: Focus Anywhere for Fine-grained Multi-page Document Understanding**
-[`paper`](https://arxiv.org/abs/2405.14295)
-[`code`](https://github.com/Ucas-HaoranWei/Fox)
-
-- **TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models**
-[`paper`](https://arxiv.org/abs/2404.09204)
-[`code`](https://github.com/yuyq96/TextHawk)
-
-- **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**
-[`paper`](https://arxiv.org/abs/2403.12895)
-[`code`](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
-</details>
-
-<details>
-<summary><strong>Text Detection</strong></summary>
-  
-### ECCV 2024
-  - **Bridging Synthetic and Real Worlds for Pre-training Scene Text Detector**
-  [`paper`](https://arxiv.org/pdf/2312.05286)
-  [`code`](https://github.com/SJTU-DeepVisionLab/FreeReal)
-  
-### AAAI 2024
-- **LORE: Logical Location Regression Network for Table Structure Recognition**
-  [`paper`](https://arxiv.org/pdf/2303.03730.pdf)
-  [`code`](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
-- **LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network**
-[`paper`](https://arxiv.org/abs/2306.15142)
-[`code`](https://github.com/ychensu/LRANet)
-- **CPN: Complementary Proposal Network for Unconstrained Text Detection**
-[`paper`](https://arxiv.org/pdf/2402.11540.pdf)
-
-</details>
 
