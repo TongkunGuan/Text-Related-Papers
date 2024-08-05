@@ -11,12 +11,16 @@ This repository contains a paper collection of the latest text-related papers fr
 ### Text Recognition
 + [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](https://arxiv.org/pdf/2407.07764) (ECCV2024)
   [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/SJTU-DeepVisionLab/PosFormer)
+  
 + [Self-supervised Character-to-Character Distillation for Text Recognition](https://arxiv.org/pdf/2211.00288.pdf) (ICCV 2023)
   [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/TongkunGuan/CCD)
+  
 + [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758) (ICCV 2023)
   [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/simplify23/MRN)
+  
 + [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723) (ICCV 2023)
   [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/Mountchicken/Union14M)
+  
 + [Self-Supervised Implicit Glyph Attention for Text Recognition](https://openaccess.thecvf.com/content/CVPR2023/html/Guan_Self-Supervised_Implicit_Glyph_Attention_for_Text_Recognition_CVPR_2023_paper.html) (CVPR 2023)
   [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/TongkunGuan/SIGA)
 + [Relational Contrastive Learning for Scene Text Recognition](https://arxiv.org/pdf/2308.00508.pdf) (ACMMM 2023)
@@ -29,10 +33,8 @@ This repository contains a paper collection of the latest text-related papers fr
   [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/ayumiymk/DiG)
 + [Chinese Character Recognition with Augmented Character Profile Matching](https://dl.acm.org/doi/abs/10.1145/3503161.3547827) (ACMMM 2022)  
   [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/FudanVI/FudanOCR/tree/main/character-profile-matching)
-+ [Scene Text Recognition with Permuted Autoregressive Sequence Models](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_11) (ECCV 2022)  
-  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/baudm/parseq)
-+ [Task Grouping for Multilingual Text Recognition (Workshops)](https://link.springer.com/chapter/10.1007/978-3-031-25069-9_20) (ECCV 2022 Workshops)  
-  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
++ [Scene Text Recognition with Permuted Autoregressive Sequence Models](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_11) (ECCV 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/baudm/parseq)
++ [Task Grouping for Multilingual Text Recognition (Workshops)](https://link.springer.com/chapter/10.1007/978-3-031-25069-9_20) (ECCV 2022 Workshops)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
 + [Multi-modal Text Recognition Networks: Interactive Enhancements Between Visual and Semantic Features](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_26) (ECCV 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/wp03052/MATRN)
 + [On Calibration of Scene-Text Recognition Models (Workshops)](https://link.springer.com/chapter/10.1007/978-3-031-25069-9_18) (ECCV 2022 Workshops)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
 + [Pure Transformer with Integrated Experts for Scene Text Recognition](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_28) (ECCV 2022)  [![Code](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com)
