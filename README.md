@@ -8,6 +8,9 @@ This repository contains a paper collection of the latest text-related papers fr
 - [Text Detection](#text-detection)
 ##
 
+<details>
+<summary>Text Recognition</summary>
+  
 ### Text Recognition
 + [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](https://arxiv.org/pdf/2407.07764) (ECCV2024)
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/SJTU-DeepVisionLab/PosFormer)
@@ -81,7 +84,7 @@ This repository contains a paper collection of the latest text-related papers fr
   
 + [Primitive Representation Learning for Scene Text Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Primitive_Representation_Learning_for_Scene_Text_Recognition_CVPR_2021_paper.pdf) (CVPR 2021)
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/RuijieJ/pren)
-
+</details>
 
 ### Text to Image
 + [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/pdf/2403.09622) (ECCV2024) 
