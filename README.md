@@ -212,6 +212,9 @@ Update the latest text-related papers from top conferences, including:
   [`code`](https://github.com/LukeForeverYoung/UReader)
 
 ### Arxiv
+- **On Pre-training of Multimodal Language Models Customized for Chart Understanding**
+  [`paper`](https://arxiv.org/pdf/2407.14506)
+  
 - **LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models**
   [`paper`](https://arxiv.org/pdf/2407.19185)
   
