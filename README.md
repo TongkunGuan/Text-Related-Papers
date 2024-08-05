@@ -1,13 +1,12 @@
 ## Text-Related-Papers
 Update the latest text-related papers from top conferences, including:
-- [Text Recognition]
+- [Text Recognition] ()
 - [Text to Image (Diffusion Models)]
 - [Multi-modal Large Language Model (MLLM)]
 - [Text Detection]
 ##
 
-<details>
-<summary><strong>Text Recognition</strong></summary>
+### Text Recognition
 
 ### ECCV 2024
 - **PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer**
