@@ -10,7 +10,7 @@ This repository contains a paper collection of the latest text-related papers fr
 
 ### Text Recognition
 + [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](https://arxiv.org/pdf/2407.07764) (ECCV2024)
-  [![Code](https://img.shields.io/badge/GitHub-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/SJTU-DeepVisionLab/PosFormer)
+  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/SJTU-DeepVisionLab/PosFormer)
   
 + [Self-supervised Character-to-Character Distillation for Text Recognition](https://arxiv.org/pdf/2211.00288.pdf) (ICCV 2023)
   [![Code](https://img.shields.io/badge/GitHub-brightgreen?style=flat&logo=github&logoColor=black)](https://github.com/TongkunGuan/CCD)
