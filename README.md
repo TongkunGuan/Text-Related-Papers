@@ -10,7 +10,8 @@ This repository contains a paper collection of the latest text-related papers fr
 
 ### Text Recognition
 + [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](https://arxiv.org/pdf/2407.07764) (ECCV2024)
-  [![Code](https://img.shields.io/badge/code-available-green)](https://github.com/SJTU-DeepVisionLab/PosFormer)
+  [![Code](https://img.shields.io/badge/code-available-green)](https://img.shields.io/badge/GitHub-available-brightgreen?style=flat&logo=github&logoColor=black
+)(https://github.com/SJTU-DeepVisionLab/PosFormer)
 + [Self-supervised Character-to-Character Distillation for Text Recognition](https://arxiv.org/pdf/2211.00288.pdf) (ICCV 2023)
   [code](https://github.com/TongkunGuan/CCD)
 + [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758) (ICCV 2023)
@@ -334,18 +335,18 @@ This repository contains a paper collection of the latest text-related papers fr
   
 ### ECCV 2024
   - **Bridging Synthetic and Real Worlds for Pre-training Scene Text Detector**
-  [paper](https://arxiv.org/pdf/2312.05286)
-  [code](https://github.com/SJTU-DeepVisionLab/FreeReal)
+  [`paper`](https://arxiv.org/pdf/2312.05286)
+  [`code`](https://github.com/SJTU-DeepVisionLab/FreeReal)
   
 ### AAAI 2024
 - **LORE: Logical Location Regression Network for Table Structure Recognition**
-  [paper](https://arxiv.org/pdf/2303.03730.pdf)
-  [code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
+  [`paper`](https://arxiv.org/pdf/2303.03730.pdf)
+  [`code`](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/LORE-TSR)
 - **LRANet: Towards Accurate and Efficient Scene Text Detection with Low-Rank Approximation Network**
-[paper](https://arxiv.org/abs/2306.15142)
-[code](https://github.com/ychensu/LRANet)
+[`paper`](https://arxiv.org/abs/2306.15142)
+[`code`](https://github.com/ychensu/LRANet)
 - **CPN: Complementary Proposal Network for Unconstrained Text Detection**
-[paper](https://arxiv.org/pdf/2402.11540.pdf)
+[`paper`](https://arxiv.org/pdf/2402.11540.pdf)
 
 </details>
 
