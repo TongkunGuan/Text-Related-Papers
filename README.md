@@ -3,9 +3,9 @@ This repository contains a paper collection of the latest text-related papers fr
 
 ## Table of Contents
 - [Text Recognition](#Text-Recognition)
-- [Text to Image (Diffusion Models)](#text_to_image)
-- [Multi-modal Large Language Model (MLLM)](#MLLM)
-- [Text Detection](#text_detection)
+- [Text to Image (Diffusion Models)](#text-to-image)
+- [Multi-modal Large Language Model (MLLM)](#Multi-modal-Large-Language-Model-(MLLM))
+- [Text Detection](#text-detection)
 ##
 
 ### Text Recognition
