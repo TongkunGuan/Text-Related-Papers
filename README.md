@@ -212,6 +212,9 @@ Update the latest text-related papers from top conferences, including:
   [`code`](https://github.com/LukeForeverYoung/UReader)
 
 ### Arxiv
+- **LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models**
+  [`paper`](https://arxiv.org/pdf/2407.19185)
+  
 - **Multimodal Table Understanding**
   [`paper`](https://arxiv.org/pdf/2406.08100)
   [`code`](https://github.com/SpursGoZmy/Table-LLaVA)
