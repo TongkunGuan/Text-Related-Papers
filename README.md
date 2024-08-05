@@ -3,8 +3,8 @@ This repository contains a paper collection of the latest text-related papers fr
 
 ## Table of Contents
 - [Text Recognition](#Text-Recognition)
-- [Text to Image (Diffusion Models)](#text-to-image)
-- [Multi-modal Large Language Model (MLLM)](#Multi-modal-Large-Language-Model-(MLLM))
+- [Text to Image](#text-to-image)
+- [Multi-modal Large Language Model](#Multi-modal-Large-Language-Model)
 - [Text Detection](#text-detection)
 ##
 
@@ -83,7 +83,7 @@ This repository contains a paper collection of the latest text-related papers fr
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/RuijieJ/pren)
 
 
-### Text to Image (Diffusion Models)
+### Text to Image
 + [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/pdf/2403.09622) (ECCV2024) 
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://glyph-byt5.github.io/)
 
@@ -126,7 +126,7 @@ This repository contains a paper collection of the latest text-related papers fr
 
 
   
-### Multi-modal Large Language Model (MLLM)
+### Multi-modal Large Language Model
 + [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf) (CVPR2024)
  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/OpenGVLab/InternVL)
 
