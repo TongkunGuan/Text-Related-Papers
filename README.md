@@ -87,6 +87,9 @@ This repository contains a paper collection of the latest text-related papers fr
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/RuijieJ/pren)
 </details>
 
+<details open>
+<summary>👀 </summary>
+
 ### Text to Image
 + [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/pdf/2403.09622) (ECCV2024) 
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://glyph-byt5.github.io/)
@@ -127,8 +130,10 @@ This repository contains a paper collection of the latest text-related papers fr
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/OPPO-Mente-Lab/GlyphDraw2)
 
 + [ARTIST: Improving the Generation of Text-rich Images by Disentanglement](https://arxiv.org/pdf/2406.12044) (Arxiv)
+</details>
 
-
+<details open>
+<summary>👀 </summary>
   
 ### Multi-modal Large Language Model
 + [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.pdf) (CVPR2024)
@@ -174,9 +179,11 @@ This repository contains a paper collection of the latest text-related papers fr
 
 + [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895) (Arxiv)
  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
+</details>
 
-
-
+<details open>
+<summary>👀 </summary>
+  
 ### Text Detection
 + [Bridging Synthetic and Real Worlds for Pre-training Scene Text Detector](https://arxiv.org/pdf/2312.05286) (ECCV2024)
  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/SJTU-DeepVisionLab/FreeReal)
@@ -188,5 +195,6 @@ This repository contains a paper collection of the latest text-related papers fr
  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/ychensu/LRANet)
 
 + [CPN: Complementary Proposal Network for Unconstrained Text Detection](https://arxiv.org/pdf/2402.11540.pdf) (AAAI2024)
+</details>
 
 
