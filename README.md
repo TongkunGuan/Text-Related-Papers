@@ -212,6 +212,10 @@ Update the latest text-related papers from top conferences, including:
   [`code`](https://github.com/LukeForeverYoung/UReader)
 
 ### Arxiv
+- **Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding**
+  [`paper`](https://arxiv.org/pdf/2407.14439) 4gpu
+  [`code`](https://github.com/JiuTian-VL/TokenCorrCompressor)
+   
 - **LayTextLLM: A Bounding Box is Worth One Token - Interleaving Layout and Text in a Large Language Model for Document Understanding**
   [`paper`](https://arxiv.org/pdf/2407.01976) 8gpu
   [`code`](https://github.com/LayTextLLM/LayTextLLM)
