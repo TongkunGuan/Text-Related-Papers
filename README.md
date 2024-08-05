@@ -134,7 +134,7 @@ Update the latest text-related papers from top conferences, including:
 [`code`](https://github.com/RuijieJ/pren)
 </details>
 
-<details open>
+<details>
 <summary><strong>Text to Image (Diffusion Models)</strong></summary>
   
 ### ECCV2024
@@ -145,6 +145,11 @@ Update the latest text-related papers from top conferences, including:
   **Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering**
   [`paper`](https://arxiv.org/pdf/2406.10208)
   [`code`](https://glyph-byt5-v2.github.io/)
+
+### ICLR2024
+- **ANYTEXT: MULTILINGUAL VISUAL TEXT GENERATION AND EDITING**
+  [`paper`](https://arxiv.org/pdf/2311.03054)
+  [`code`](https://github.com/tyxsspa/AnyText)
 
 ### ACL 2023
 - **Character-Aware Models Improve Visual Text Rendering**
@@ -191,7 +196,7 @@ Update the latest text-related papers from top conferences, including:
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Multi-modal Large Language Model (MLLM)</strong></summary>
 
 ### CVPR24
@@ -239,7 +244,7 @@ Update the latest text-related papers from top conferences, including:
 [`code`](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
 </details>
 
-<details open>
+<details>
 <summary><strong>Text Detection</strong></summary>
   
 ### ECCV 2024
