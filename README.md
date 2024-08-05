@@ -212,6 +212,10 @@ Update the latest text-related papers from top conferences, including:
   [`code`](https://github.com/LukeForeverYoung/UReader)
 
 ### Arxiv
+- **Multimodal Table Understanding**
+  [`paper`](https://arxiv.org/pdf/2406.08100)
+  [`code`](https://github.com/SpursGoZmy/Table-LLaVA)
+
 - **Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding**
   [`paper`](https://arxiv.org/pdf/2407.14439) 4gpu
   [`code`](https://github.com/JiuTian-VL/TokenCorrCompressor)
