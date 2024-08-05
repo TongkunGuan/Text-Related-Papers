@@ -9,9 +9,24 @@ This repository contains a paper collection of the latest text-related papers fr
 ##
 
 ### Text Recognition
-+ [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](ECCV2024)
-[`paper`]()
-[`code`](https://github.com/SJTU-DeepVisionLab/PosFormer)
++ [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](https://arxiv.org/pdf/2407.07764) (ECCV2024)
+  [`code`](https://github.com/SJTU-DeepVisionLab/PosFormer)
++ [Self-supervised Character-to-Character Distillation for Text Recognition](https://arxiv.org/pdf/2211.00288.pdf) (ICCV 2023)  
+  [code](https://github.com/TongkunGuan/CCD)
++ [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758) (ICCV 2023)  
+  [code](https://github.com/simplify23/MRN)
++ [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723) (ICCV 2023)  
+  [code](https://github.com/Mountchicken/Union14M)
++ [Self-Supervised Implicit Glyph Attention for Text Recognition](https://openaccess.thecvf.com/content/CVPR2023/html/Guan_Self-Supervised_Implicit_Glyph_Attention_for_Text_Recognition_CVPR_2023_paper.html) (CVPR 2023)  
+  [code](https://github.com/TongkunGuan/SIGA)
++ [Relational Contrastive Learning for Scene Text Recognition](https://arxiv.org/pdf/2308.00508.pdf) (ACMMM 2023)  
+  [code](https://github.com/ThunderVVV/RCLSTR)
++ [TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/abs/2305.05322) (IJCAI 2023)  
+  [code](https://github.com/simplify23/TPS_PP)
++ [Linguistic More: Taking a Further Step toward Efficient and Accurate Scene Text Recognition](https://arxiv.org/pdf/2305.05140.pdf) (IJCAI 2023)  
+  [code](https://github.com/CyrilSterling/LPV)
+
+
 
 ### ICCV 2023
 - **Self-supervised Character-to-Character Distillation for Text Recognition**
