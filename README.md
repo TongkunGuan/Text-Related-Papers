@@ -143,6 +143,7 @@ This repository contains a paper collection of the latest text-related papers fr
  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/OpenGVLab/InternVL)
 
 + [TRINS: Towards Multimodal Language Models that Can Read](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_TRINS_Towards_Multimodal_Language_Models_that_Can_Read_CVPR_2024_paper.pdf) (CVPR2024)
+  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/puar-playground/MMR_Bench)
 
 + [UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model](https://arxiv.org/pdf/2310.05126) (EMNLP2023)
  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/LukeForeverYoung/UReader)
