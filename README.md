@@ -136,6 +136,18 @@ This repository contains a paper collection of the latest text-related papers fr
 <summary>👀 </summary>
   
 ### Multi-modal Large Language Model
++ [Honeybee: Locality-enhanced Projector for Multimodal LLM](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Honeybee_Locality-enhanced_Projector_for_Multimodal_LLM_CVPR_2024_paper.pdf) (CVPR24)
+  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/kakaobrain/honeybee)
+
++ [Continuous or Discrete, That Is the Question: A Survey on Large MultiModal Models from the Perspective of Input-Output Space Extension](10.20944/preprints202411.0685.v1) (11 Arxiv)
+
++ [MobileVLM V2: Faster and Stronger Baseline for Vision Language Model](https://arxiv.org/pdf/2402.03766) (01 Arxiv)
+  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/Meituan-AutoML/MobileVLM)
+
++ [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model
+Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/pdf/2404.06512) (04 Arxiv)
+  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/InternLM/InternLM-XComposer)
+  
 + [Mini-Monkey: Alleviate the Sawtooth Effect by Multi-Scale Adaptive Cropping](https://arxiv.org/pdf/2408.02034) (08 Arxiv)
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/Yuliang-Liu/Monkey)
   
