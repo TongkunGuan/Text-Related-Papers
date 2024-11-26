@@ -6,11 +6,15 @@ This repository contains a paper collection of the latest text-related papers fr
 - [Text to Image](#text-to-image)
 - [Multi-modal Large Language Model](#Multi-modal-Large-Language-Model)
 - [Text Detection](#text-detection)
+- [GUI Agents](#UI-understanding)
 ##
 
 <details open>
 <summary>👀 </summary>
-  
+
+### GUI Agents
++ [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/pdf/2408.00203) (08 Arxiv)
+
 ### Text Recognition
 
 + [PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer](https://arxiv.org/pdf/2407.07764) (ECCV2024)
