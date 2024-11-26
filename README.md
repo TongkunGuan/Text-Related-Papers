@@ -14,6 +14,7 @@ This repository contains a paper collection of the latest text-related papers fr
 
 ### GUI Agents
 + [OmniParser for Pure Vision Based GUI Agent](https://arxiv.org/pdf/2408.00203) (08 Arxiv)
+  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/microsoft/OmniParser)
 
 ### Text Recognition
 
