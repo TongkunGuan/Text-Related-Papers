@@ -136,6 +136,8 @@ This repository contains a paper collection of the latest text-related papers fr
 <summary>👀 </summary>
   
 ### Multi-modal Large Language Model
++ [Hierarchical Visual Feature Aggregation for OCR-Free Document Understanding](https://arxiv.org/pdf/2411.05254) (NeurIPS 2024)
+
 + [Honeybee: Locality-enhanced Projector for Multimodal LLM](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Honeybee_Locality-enhanced_Projector_for_Multimodal_LLM_CVPR_2024_paper.pdf) (CVPR24)
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/kakaobrain/honeybee)
 
