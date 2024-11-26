@@ -144,17 +144,15 @@ This repository contains a paper collection of the latest text-related papers fr
   
 ### Multi-modal Large Language Model
 
-+ [On Pre-training of Multimodal Language Models Customized for Chart Understanding]
++ [On Pre-training of Multimodal Language Models Customized for Chart Understanding]() (06 Arxiv)
 
-+ [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling]
++ [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling]() (10 Arxiv)
 
-+ [MPLUG-DOCOWL2: HIGH-RESOLUTION COMPRESSING FOR OCR-FREE MULTI-PAGE DOCUMENT UNDERSTANDING]
++ [MPLUG-DOCOWL2: HIGH-RESOLUTION COMPRESSING FOR OCR-FREE MULTI-PAGE DOCUMENT UNDERSTANDING]() (09 Arxiv)
 
-+ [LayTextLLM: A Bounding Box is Worth One Token - Interleaving Layout and Text in a Large Language Model for Document Understanding]
++ [LayTextLLM: A Bounding Box is Worth One Token - Interleaving Layout and Text in a Large Language Model for Document Understanding]() (06 Arxiv)
   
-+ [DOCLLM: A LAYOUT-AWARE GENERATIVE LANGUAGE MODEL FOR MULTIMODAL DOCUMENT UNDERSTANDING]
-  
-+ [RegionGPT: Towards Region Understanding Vision Language Model]
++ [RegionGPT: Towards Region Understanding Vision Language Model]() (05 Arxiv)
   
 + [Hierarchical Visual Feature Aggregation for OCR-Free Document Understanding](https://arxiv.org/pdf/2411.05254) (NeurIPS 2024)
 
@@ -217,6 +215,8 @@ Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/pdf/2404.06512)
 
 + [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895) (Arxiv)
  [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
+
++ [DOCLLM: A LAYOUT-AWARE GENERATIVE LANGUAGE MODEL FOR MULTIMODAL DOCUMENT UNDERSTANDING]() (12-2023 Arxiv)
 </details>
 
 <details open>
