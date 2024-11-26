@@ -3,7 +3,7 @@ This repository contains a paper collection of the latest text-related papers fr
 
 ## 📖 Table of Contents
 - [Text Recognition](#Text-Recognition)
-- [Text to Image](#text-to-image)
+- [Controllable Text Generation](#text-to-image)
 - [Multi-modal Large Language Model](#Multi-modal-Large-Language-Model)
 - [Text Detection](#text-detection)
 - [GUI Agents](#UI-understanding)
@@ -97,7 +97,10 @@ This repository contains a paper collection of the latest text-related papers fr
 <details open>
 <summary>👀 </summary>
 
-### Text to Image
+### Controllable Text Generation
+
++ [How To Create SOTA Image Generation with Text: Recraft’s ML Team Insights](https://www.recraft.ai/blog/how-to-create-sota-image-generation-with-text-recrafts-ml-team-insights)
+
 + [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/pdf/2403.09622) (ECCV2024) 
   [![Code](https://img.shields.io/badge/GitHub-9cf?style=flat&logo=github&logoColor=black)](https://glyph-byt5.github.io/)
 
