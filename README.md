@@ -143,6 +143,19 @@ This repository contains a paper collection of the latest text-related papers fr
 <summary>👀 </summary>
   
 ### Multi-modal Large Language Model
+
++ [On Pre-training of Multimodal Language Models Customized for Chart Understanding]
+
++ [PDF-WuKong: A Large Multimodal Model for Efficient Long PDF Reading with End-to-End Sparse Sampling]
+
++ [MPLUG-DOCOWL2: HIGH-RESOLUTION COMPRESSING FOR OCR-FREE MULTI-PAGE DOCUMENT UNDERSTANDING]
+
++ [LayTextLLM: A Bounding Box is Worth One Token - Interleaving Layout and Text in a Large Language Model for Document Understanding]
+  
++ [DOCLLM: A LAYOUT-AWARE GENERATIVE LANGUAGE MODEL FOR MULTIMODAL DOCUMENT UNDERSTANDING]
+  
++ [RegionGPT: Towards Region Understanding Vision Language Model]
+  
 + [Hierarchical Visual Feature Aggregation for OCR-Free Document Understanding](https://arxiv.org/pdf/2411.05254) (NeurIPS 2024)
 
 + [Honeybee: Locality-enhanced Projector for Multimodal LLM](https://openaccess.thecvf.com/content/CVPR2024/papers/Cha_Honeybee_Locality-enhanced_Projector_for_Multimodal_LLM_CVPR_2024_paper.pdf) (CVPR24)
