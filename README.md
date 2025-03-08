@@ -9,6 +9,8 @@ This repository contains a paper collection of the latest text-related papers fr
 - [GUI Agents](#UI-understanding)
 ##
 
+文档多模态大模型 Survey: https://arxiv.org/pdf/2502.16586
+
 <details open>
 <summary>👀 </summary>
 
